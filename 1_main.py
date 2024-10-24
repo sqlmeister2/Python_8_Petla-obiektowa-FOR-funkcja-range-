@@ -23,13 +23,14 @@ for y in range(10):
 for j in range(1, 11):
     print(j)
 
-#trzeci argument to argument skoku
+# trzeci argument to argument skoku
 for k in range(1, 11, 2):
     print(k)
 
 
-# #for tak samo jako while także może mieć else
+#for tak samo jako while także może mieć else
 for i in range(3):
     print(i)
 else:
     print("Koniec pętli po elemencie " + str(i))
+
